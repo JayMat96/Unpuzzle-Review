@@ -1,7 +1,5 @@
 # Unpuzzle-Review
-
-## Game Title:
- (Links to an external site.)Links to an external site.
+[You can play *Unpuzzle* here](https://www.kongregate.com/games/KekGames/unpuzzle)
 
 ## Summary
 This game is about...
